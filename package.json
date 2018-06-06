@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-payment-protocol",
+  "name": "wificore-payment-protocol",
   "version": "1.7.0",
   "description": "Payment Protocol (BIP70 and related) support for bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -39,13 +39,13 @@
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "wificore",
     "payment protocol",
     "BIP70"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-payment-protocol.git"
+    "url": "https://github.com/wificoin-project/wificore-payment-protocol.git"
   },
   "browser": "lib/browser.js",
   "dependencies": {
